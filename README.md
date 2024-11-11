@@ -8,7 +8,7 @@ A simple interactive script that sets up a Wireguard VPN server with Adguard, Un
 ## Usage
 
 ```
-wget https://notthebe.ee/vpn -O bootstrap.sh && bash bootstrap.sh
+wget [https://notthebe.ee/vpn](https://raw.githubusercontent.com/sxg024/ansible-easy-vpn/refs/heads/main/bootstrap.sh) -O bootstrap.sh && bash bootstrap.sh
 ```
 
 ## Features
